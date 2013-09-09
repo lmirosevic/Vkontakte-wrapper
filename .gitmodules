@@ -1,0 +1,3 @@
+[submodule "VKontakte/Vkontakte-iOS-SDK Source"]
+	path = VKontakte/Vkontakte-iOS-SDK Source
+	url = https://github.com/StonerHawk/Vkontakte-iOS-SDK.git
